@@ -38,7 +38,7 @@ class _ArtistDetailedScreenState extends State<ArtistDetailedScreen>
                 tag: "a",
                               child: Container(
                   child: Image.network(
-                    'https://mocah.org/uploads/webp/109077-drake-views-top-music-artist-and-bands-hip-hop.jpg.webp',
+                    'https://nice-assets.s3-accelerate.amazonaws.com/smart_templates/c5f3ffbd7b78075b434b5dbc4153891b/assets/preview_5bc0919bea84e11a8643ab8d7e64f195.jpg',
                     height: screenHeight * 0.40,
                     width: screenWidth,
                     fit: BoxFit.cover,

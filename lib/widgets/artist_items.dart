@@ -33,7 +33,7 @@ class ArtistItems extends StatelessWidget {
                   child: ClipRRect(
                     borderRadius: BorderRadius.all(Radius.circular(60)),
                     child: Image.network(
-                      'https://mocah.org/uploads/webp/109077-drake-views-top-music-artist-and-bands-hip-hop.jpg.webp',
+                      'https://nice-assets.s3-accelerate.amazonaws.com/smart_templates/c5f3ffbd7b78075b434b5dbc4153891b/assets/preview_5bc0919bea84e11a8643ab8d7e64f195.jpg',
                       fit: BoxFit.cover,
                     ),
                   ),
